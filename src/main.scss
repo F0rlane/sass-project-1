@@ -10,9 +10,13 @@ h1{
     padding: 30px;
     border-radius: 10px;
     border: none;
-    box-shadow: black 3px;
+    box-shadow: 5px 5px 5px black;
+    &-danger{
+        background: red;
+    }
     &:hover{
         background: black;
         color: white;
     }
+    
 }
