@@ -1,0 +1,18 @@
+h1 {
+  color: red;
+}
+
+.btn {
+  background: white;
+  color: black;
+  padding: 30px;
+  border-radius: 10px;
+  border: none;
+  box-shadow: black 3px;
+}
+.btn:hover {
+  background: black;
+  color: white;
+}
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,18 @@
+$myVariable: red;
+
+h1{
+    color: $myVariable;
+}
+
+.btn{
+    background: white;
+    color: black;
+    padding: 30px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: black 3px;
+    &:hover{
+        background: black;
+        color: white;
+    }
+}
